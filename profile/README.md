@@ -34,5 +34,5 @@ developed and maintained by Patech Ltd.
 
 ## Contact
 
-Website: https://patech.ltd/\
+Website: https://patech.ltd
 Email: info@patech.ltd
